@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{64439700-C0C4-A003-371A-C822ACCA3487}</ProjectGuid>
+    <ProjectGuid>{EE6F1500-6369-CB35-9AF3-582ACB73083D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FMODUnityResonance</AssemblyName>
@@ -946,7 +946,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FMODUnity.csproj">
-      <Project>{2EE812C1-D174-7DB5-F6E4-C4AF900E9B39}</Project>
+      <Project>{7F9F8E52-2315-839E-6E5D-CF3D926A90ED}</Project>
       <Name>FMODUnity</Name>
     </ProjectReference>
   </ItemGroup>
